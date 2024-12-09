@@ -1,0 +1,4 @@
+repository "rock_paper_scisor@sakurasaroun@cloud"
+  path "/"
+    br "/main"
+    co "/main"
